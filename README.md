@@ -1,8 +1,8 @@
-# PyData Logos 🐍
+# PyData Project Logos 🐍
 
 A curated list of logo locations for Python Data Science and Scientific Python libraries. Several locations also include brand guidelines, please make sure to follow them while using the projects' logos.
 
-This list points to location because logos can have trademarks and the file or guidelines can change over time.
+This list points to locations because logos can have trademarks and the files or usage guidelines can change over time.
 
 ## Logo locations 🔗
 
